@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_card">Cartão de Visita</string>
+    <string name="extended_fab_content_desc">Adicionar novo cartão</string>
+    <string name="label_fab_extended">Adicionar</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_name">Nome Pessoa</string>
+    <string name="label_description_phone_number">Telefone</string>
+    <string name="label_description_email">Email</string>
+    <string name="label_backgroup">Cor de Fundo</string>
+    <string name="label_description_company">Empresa</string>
+    <string name="label_approve">Confirmar</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="label_show_sucess">Cartão cadastrado com Sucesso !!</string>
+    <string name="label_close_image">Voltar para a tel inicial</string>
+    <string name="label_share_card_image">imagem para compartilhar o cartão</string>
+
+</resources>
